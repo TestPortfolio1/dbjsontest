@@ -2,13 +2,11 @@
   {
     "id": 11,
     "name": "Test Graham",
-    "age": "57",
-
+    "age": 57
   },
   {
     "id": 12,
     "name": "Test John",
-    "age": "87",
-
+    "age": 87
   }
 ]
